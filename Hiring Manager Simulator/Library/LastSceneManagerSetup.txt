@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/bug_phase.unity
+  isLoaded: 1
+  isActive: 1
